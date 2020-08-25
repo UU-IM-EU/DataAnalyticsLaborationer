@@ -1,5 +1,5 @@
-## DataAnalyticsLaborationer
-# Repositorie för laborationerna i kursen 2IS239 Data Analytics.
+# DataAnalyticsLaborationer
+## Repositorie för laborationerna i kursen 2IS239 Data Analytics.
 
 Varje laborationsmapp innehåller ett antal filer, framförallt Notebooks som du kör via Notebooks.ai. En av filerna, som heter Assignment_nr.ipynb är den notebook som innehåller själva laborationen som ni ska lämna in och som kommer bedömas. Övriga filer är exempelvis övningar och demon som kan hjälpa er att klara av uppgiften. 
 
@@ -11,7 +11,7 @@ Inför varje laboration kommer ni att få en länk till klassrummet för denna l
 
 När ni klickar på länken kommer ni komma till en webbsida där ni kan acceptera laborationen/uppgiften. 
 
-# OBS! Första gången ni accepterar en uppgift kommer ni behöva auktorisera applikationen på GitHub. För att detta ska vara möjligt krävs att ni har skapat en egen GitHub och verifierat den mailadress ni använder. 
+### OBS! Första gången ni accepterar en uppgift kommer ni behöva auktorisera applikationen på GitHub. För att detta ska vara möjligt krävs att ni har skapat en egen GitHub och verifierat den mailadress ni använder. 
 
 När ni accepterar en inbjudan till en laboration kommer en lokal kopia av denna att skapas i ert eget GitHub repositorie. Detta repositorie kan du sedan ladda upp i verktygen Notebooks.ai som ni kan använda för att genomföra laborationerna. Alternativt kan ni också välja att installera en miljö för att programmera Python lokalt på er dator, ni ska då använda er av Anaconda. Instruktioner för hur ni installerar Analconda finns på Studium.
 
